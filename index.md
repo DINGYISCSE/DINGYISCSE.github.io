@@ -1,13 +1,13 @@
 ## Welcome to DING YI's page!
 
-Hello everyone! I am DING Yi, currently a Research Associate in Computational Intelligence Lab.
+Hello everyone! I am DING Yi, currently a Research Associate in Computational Intelligence Lab, School of Computer Science and Engingeering,Nanyang Technological University.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
