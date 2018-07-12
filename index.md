@@ -1,5 +1,5 @@
 # Welcome to DING YI's page!    <img width="200" height="90" src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/logo.png">
-DING YI<br>
+<img width="100" height="200" src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/photo.png"> YI<br>
 Research Associate <br>
 Computational Intelligence Lab<br>
 School of Computer Science and Engineering, Nanyang Technological University<br>
