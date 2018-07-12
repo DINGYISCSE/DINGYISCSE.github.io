@@ -8,6 +8,11 @@ Phone:(+65)87312377<br>
 E-mail:DING.YI@NTU.EDU.SG<br>
 Office:N4-B1A-02<br>
 ## Education:
-
+MSC Nanyang Technological University 2018
+B.Eng Donghua University, China 2017
+## Research Interest:
+Artificial Intelligence
+Machine learning
+Brain Computer Interface
 
 
