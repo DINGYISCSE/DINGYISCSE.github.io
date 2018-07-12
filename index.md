@@ -1,5 +1,5 @@
 # Welcome to DING YI's page! 
-<img src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/photo.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/photo.jpg" width="110" height="150" alt="Image"/>
 DING YI<br>
 Research Associate <br>
 Computational Intelligence Lab<br>
