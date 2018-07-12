@@ -1,5 +1,7 @@
 ## Welcome to DING YI's page!
 
+[Image]
+
 Hello everyone! I am DING Yi, currently a Research Associate in Computational Intelligence Lab, School of Computer Science and Engingeering,Nanyang Technological University.
 
 ### Markdown
