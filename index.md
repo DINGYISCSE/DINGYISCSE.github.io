@@ -11,8 +11,8 @@ Office:N4-B1A-02<br>
 MSC Nanyang Technological University 2018
 B.Eng Donghua University, China 2017
 ## Research Interest:
-Artificial Intelligence
-Machine learning
-Brain Computer Interface
+Artificial Intelligence<br>
+Machine learning<br>
+Brain Computer Interface<br>
 
 
