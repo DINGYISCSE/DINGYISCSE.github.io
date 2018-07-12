@@ -1,4 +1,4 @@
-# Welcome to DING YI's page!    ![image](logo.png)
+# Welcome to DING YI's page!    <div align=right>![image](logo.png)
 DING YI<br>
 Research Associate <br>
 Computational Intelligence Lab<br>
