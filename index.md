@@ -1,5 +1,5 @@
 # Welcome to DING YI's page! 
-![image](photo.jpg){:height="100px" width="400px"}
+![image](photo.jpg=100*200)
 Research Associate <br>
 Computational Intelligence Lab<br>
 School of Computer Science and Engineering, Nanyang Technological University<br>
