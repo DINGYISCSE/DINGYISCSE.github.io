@@ -1,4 +1,4 @@
-# Welcome to DING YI's page!    <div align=right><img width="200" height="150" src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/logo.png"></div>
+# Welcome to DING YI's page!    <div align=right><img width="200" height="100" src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/logo.png"></div>
 DING YI<br>
 Research Associate <br>
 Computational Intelligence Lab<br>
