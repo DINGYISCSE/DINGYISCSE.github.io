@@ -1,4 +1,4 @@
-# Welcome to DING YI's page! <img src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/logo.png" width="200" height="90" alt="Image" align=right/>
+# Welcome to DING YI's page! <img src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/logo.png" width="200" height="90" alt="Image"/>
 <img src="https://raw.githubusercontent.com/DINGYISCSE/DINGYISCSE.github.io/master/photo.jpg" width="110" height="150" alt="Image"/>
 
 **DING YI**<br>
