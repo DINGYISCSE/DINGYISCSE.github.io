@@ -8,10 +8,10 @@ Supervisor:Prof Guan Cuntai<br>
 Phone:(+65)87312377<br>
 E-mail:DING.YI@NTU.EDU.SG<br>
 Office:N4-B1A-02<br>
-## Education:
+# Education:
 MSC Nanyang Technological University 2018<br>
 B.Eng Donghua University, China 2017
-## Research Interest:
+# Research Interest:
 Artificial Intelligence<br>
 Machine learning<br>
 Brain Computer Interface<br>
