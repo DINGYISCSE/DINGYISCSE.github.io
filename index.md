@@ -18,3 +18,4 @@ B.Eng Donghua University, China 2017
 ## Research Interest:
 Artificial Intelligence<br>
 Machine learning<br>
+Brain Computer Interface<br>
